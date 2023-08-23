@@ -22,11 +22,12 @@ Welcome to the DevOps Learning Resources repository. This repository is a curate
 |   15   | DevOps Real-Time Interview Questions and Answers | [Link](https://youtube.com/playlist?list=PL8WTXLSrtyWpC_2KvHF49VkbtIVOcd8Gl)      |
 |   16   | DevOps Resume Review      | [Link](https://youtube.com/playlist?list=PL8WTXLSrtyWrDqnW_OeUeKJOcmUP5kFSO)  | 
 |   17   | All In one Channel to Learn Cloud & DevOps | [Link](https://www.youtube.com/@TechnicalGuftgu)      |
-|  18    |  Free Books And Interviews Question Bank       | [Link](https://drive.google.com/drive/folders/14h8Tz2cxR-JRYKJxybiLhPMadY0J70_x)       |
-|  19    |  Python For DevOps       |    [Link](https://www.trainwithshubham.com/courses/Free-Python-For-DevOps-Masterclass-6406cc4ce4b0d1aea04b434a)   |
-|   20     | Register Free CKAD Series course | [Link](https://getfitwithsagar.graphy.com/courses/Free-CKAD-Series-64803ac6e4b00d372ab6a817)      |
-|   21   |   Cloud Exam Notes      |  [Link](https://rishabkumar.com/notes/)     |
-|      |         |       |
+|   18   | Channel to master Linux & Shell Scripting | [Link](https://www.youtube.com/@MPrashant) |
+|  19   |  Free Books And Interviews Question Bank       | [Link](https://drive.google.com/drive/folders/14h8Tz2cxR-JRYKJxybiLhPMadY0J70_x)       |
+|  20    |  Python For DevOps       |    [Link](https://www.trainwithshubham.com/courses/Free-Python-For-DevOps-Masterclass-6406cc4ce4b0d1aea04b434a)   |
+|   21    | Register Free CKAD Series course | [Link](https://getfitwithsagar.graphy.com/courses/Free-CKAD-Series-64803ac6e4b00d372ab6a817)      |
+|   22   |   Cloud Exam Notes      |  [Link](https://rishabkumar.com/notes/)     |
+|   23   |   Full DevOps Roadmap Cheatsheet     |  [Link](https://www.visualpath.in/devopstutorials/devops)    |
 |      |         |       |
 |      |         |       |
 |      |         |       |
